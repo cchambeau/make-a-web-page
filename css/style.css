@@ -1,0 +1,9 @@
+/* I am challenged with the CSS portion of this exercise. I think I liked practicing in Sublime, but I'm not sure how to tie it all together. */
+body {
+  font-family: Times New Roman; text-align: center; font-size: 1.5em; color: green;
+}
+h1 {
+  text-align: left; font-family: Courier; font-size: 18px; color: black;
+}
+h2 {font-size: 18px; text-align: left; color: blue;
+} /*While it doesn't look all that pretty, I wanted to play around with fonts and colors to see how they worked. */
